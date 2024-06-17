@@ -65,12 +65,6 @@ const App = () => {
           subtitle="This is the subtitle for card 3."
         />
 
-        <Card
-          image="https://via.placeholder.com/300"
-          title="Card Title 3"
-          subtitle="This is the subtitle for card 3."
-        />
-
       </div>
 
       <Navigation />
